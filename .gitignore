@@ -11,3 +11,6 @@ __pycache__/
 !/input/LISEZ-MOI.txt
 /output/*
 !/output/LISEZ-MOI.txt
+
+*.zip
+
